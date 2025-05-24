@@ -7,8 +7,7 @@ In a math course with computation, students will:
 * think about mathematical algorithms in a new way
 * discover a tool exists that can do everything they learned how to do in class
 * work with messy and more ``real'' problems that are intractable or impractical to solve by hand
-* work with more applicable examples to the real world
-
+* work with more applicable examples to the real world and other courses
 
 ## First course goals
 
