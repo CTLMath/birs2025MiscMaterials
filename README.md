@@ -1,2 +1,8 @@
 # birs2025MiscMaterials
-Materials generated during the workshop.
+Materials used or generated during the workshop.
+
+## Learning Goals Discussions
+May 23, 2-4pm
+
+Linear algebra and calculus/ODEs discussions.
+

@@ -38,4 +38,7 @@ By the end of their first course in linear algebra, students will be able to...
 
 By the end of their second course in linear algebra, students will be able to...
 
-* Matrices
+* Recognize and switch between object types from different packages
+* Apply computational skills from the first course to problems in linear programming, convex optimization, image processing or finite fields
+
+
